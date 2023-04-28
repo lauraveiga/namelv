@@ -1,0 +1,36 @@
+header {
+    background-color:#5d2772;
+    
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho {
+    background-color:(#714c79,#b56dca);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho-lista-item{
+
+    margin: 0 16px;
+    font-size: 24px;
+}
+.hoguarts.png{
+    width: 10%;
+}
+.escola{
+    background-image: linear-gradient(#5d2772,#bf6ee4);
+    color: white;
+}
